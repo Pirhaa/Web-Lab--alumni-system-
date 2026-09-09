@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding :0;
+    box-sizing: border-box;
+
+}
+
+.dash{
+    background-image: url("stu.jpg");
+   
+}
+
+body{
+     background-color:rgb(255, 193, 127);
+     background-size : cover;
+    height : 100vh;
+}
+
+.hero{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   height: 100vh;
+   font-size: large;
+}
+
+.btn{
+    border: 1.5px solid saddlebrown;
+    border-radius: 8px;
+    padding :8px;
+    text-decoration: none;
+
+}
